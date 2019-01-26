@@ -1,5 +1,5 @@
 <p align="center">
-<b> Greenify4Magisk </b><br>
+<b> Greenify4Magisk (For Android Pie and up) </b><br>
   <img src="http://i.imgur.com/RTIZiTb.png">
 </p>
 
@@ -13,8 +13,8 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 * Note: You won't get any xposed-side features, since magisk is NOT xposed!
 
 ## Requirements: 
-- Android 5.0 - 8.1.0
-- Magisk v15.3+
+- Android 5.0 - 9.0
+- Magisk v18+
 
 ## Changelog?:
 * Check the specific module changes at the [Github repository](https://github.com/Magisk-Modules-Repo/Greenify4Magisk "Module Github repository"). I won't keep track of the specific Greenify app changes.
